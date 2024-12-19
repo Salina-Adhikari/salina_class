@@ -58,7 +58,17 @@ def freedom_game():
     
     print("welcome to mars!!!!")
     print("your battery is dead plese charge")
-    print("mission completed")
+    batteries=[50,30,4,45,12,18,30]
+    mimimal=20
+    usable=0
+    count=0
+    for battery in batteries:
+     if battery > mimimal:
+        usable += battery
+        count = count + 1
+        print(usable,count)
+    
+print("mission completed")
 
 
 
