@@ -1,2 +1,3 @@
 Salina Adhikari: 2
 Roshna Shrestha: 1
+& C:/Users/User/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/User/OneDrive/Desktop/course pyhton/adventure.py": 0
