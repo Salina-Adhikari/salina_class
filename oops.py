@@ -32,4 +32,4 @@ Samsung.model="a56"
 Samsung.color="Red"
 Samsung.is_android=True
 
-print(Samsung)
+print(Samsung.PhoneFactory)
